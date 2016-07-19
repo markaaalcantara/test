@@ -1,0 +1,217 @@
+
+
+body {
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+#login {
+	/* Set rules to fill background */
+  background-image: url("images/baybridge.jpg");
+  min-height: 100%;
+ 
+	
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+	
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+#yuwhite {
+	position: absolute;
+	height: 15%;
+	width: 18%;
+}
+
+#loginheader {
+	text-align: center;
+}
+
+form {
+	float: center;
+	right: 58%;
+	left: 42%;
+	top: 40%;
+	bottom: 60%;
+	position: absolute;
+	color: #0000ff;
+	text-shadow: 1px;
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: initial;
+    position: relative;
+   
+/*	right: 54%;
+	left: 46%;
+	top: 60%;
+	bottom: 40%;*/
+	/*background-color: #00004d;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: top;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;*/
+}
+
+/*#button1 {
+	position: absolute;
+	right: 54%;
+	left: 46%;
+	top: 60%;
+	bottom: 40%;
+	background-color: #00004d;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: top;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}*/
+
+#yulogo {
+	position: relative;
+	height: 50px;
+	width: 135px;
+	top: -15px;
+}
+
+#outside {
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-position: fixed;
+}
+
+#qaoverviewpic {
+	height: 450px;
+	width: 100%;
+	background-size: cover;
+	background-position: fixed;
+}
+
+#learningqa {
+	height: 530px;
+	width: 100%;
+	background-size: cover;
+	background-position: fixed;
+}
+
+#cptable {
+	align: right;
+}
+
+#logo1 {
+	height: 150px;
+	width: 300px;
+}
+
+#logo2 {
+	height: 180px;
+	width: 280px;
+	padding-top: 30px;
+	}
+
+#logo3 {
+	height: 185px;
+	width: 185px;
+	padding-left: 50px;
+	padding-top: 50px;
+}
+
+#logo4 {
+	height: 79px;
+	width: 300px;
+	/*background-size: cover;
+	background-position: fixed;*/
+}
+
+#logo5 {
+	height: 160px;
+	width: 265px;
+	padding-left: 50px;
+	/*background-size: cover;
+	background-position: fixed;*/
+}
+
+#logo6 {
+	height: 90px;
+	width: 300px;
+	/*background-size: cover;
+	background-position: fixed;*/
+}
+
+#logo7 {
+	height: 225px;
+	width: 300px;
+	/*background-size: cover;
+	background-position: fixed;*/
+}
+
+.row {
+	margin-left: auto !important;
+	margin-right: auto !important;
+	width: 965px;
+}
+
+
+.copyright {
+	float: right;
+}
+
+.cite {
+	font-size: 12px;
+	font-color: #d2d2e0;
+}
+
+
+.portfolio-row {
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+.buzz {
+	text-align: center;
+}
+
+.row-port {
+	text-align: center;
+}
+
+.qaoverview {
+	width: 2000px;
+	height: 500px;
+}
+
+#col-sm-4 .img {
+	height: 30%;
+	width: 40%;
+
+
+}
+
+
+/*Marks Background Template*/
+.whole{
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-position: fixed;
+}
+
+.qaov{
+	background-image: url('images/qaoverview.jpg');
+}
+/**/
